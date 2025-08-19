@@ -1,0 +1,9 @@
+{
+  "python": "3.11.0",
+  "pytorch": "2.7.1+cu118",
+  "os": "Windows-10-10.0.26100-SP0",
+  "device": "cuda",
+  "cpu": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+  "quant_backend": "fbgemm",
+  "inference_backend": "torch-eager"
+}
